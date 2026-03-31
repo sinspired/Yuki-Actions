@@ -8,7 +8,8 @@ github_crawler:
     - "free vmess vless subscription stars:>50"
     - "clash free proxy nodes stars:>20"
     - "v2ray free subscribe pushed:>{recent_7d}"
-  max_search_repos: 20
+    - "v2ray free"
+  max_search_repos: 200
 
 # ── 订阅源 ──
 subscribe:
